@@ -1,5 +1,5 @@
 pydeck==0.3.0
 streamlit==0.57.3
 pandas==1.0.3
-numpy==1.18.1
+numpy==1.22.0
 plotly==4.6.0
